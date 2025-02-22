@@ -265,6 +265,7 @@ header{
     header{
         flex-direction: column;
         justify-content: space-between;
+        position: fixed;
     }
     section{
         display: block;
