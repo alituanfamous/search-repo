@@ -263,8 +263,10 @@ header{
         justify-content: space-between;
     }
     header{
-        flex-direction: column;
+         flex-direction: row;
         justify-content: space-between;
+        gap: 15px;
+        font-size: 13px;
        
     }
     section{
