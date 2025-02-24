@@ -186,7 +186,7 @@ header{
     justify-content: center;
     align-items: center;
     position: fixed;
-    backdrop-filter: contrast(50%);
+    backdrop-filter: brightness(65%);
     z-index: 1000;
     padding: 0;
     margin: 0;
@@ -257,7 +257,7 @@ header{
 
 @media (max-width: 768px){
     .modal-pay{
-        width: 80%;
+        width: 75%;
     }
     .modal-head{
         justify-content: space-between;
